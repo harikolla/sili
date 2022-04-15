@@ -18,7 +18,7 @@ django-admin startproject nb
 
 cd nb
 
-git clone https://github.com/NeelimaBalaji/sili
+git clone https://github.com/harikolla/sili
 
 cd nb
 
@@ -32,4 +32,4 @@ cd ..
 
 python3 manage.py migrate
 
-python3 manage.py runserver 0.0.0.0:8000
+python3 manage.py runserver
